@@ -1,0 +1,49 @@
+#body {
+  background-color: black;
+  padding-top:15%;
+  padding-bottom: 15%;
+}
+
+#wrapper {
+  background-color: white;
+  height: 200px;
+  width: 100%;
+  padding-top:8px;
+  padding-left: 0%;
+  padding-right: 0%;
+}
+
+.square {
+  background-color: green;
+  width: 100%
+}
+
+.box {
+  border: black solid 3px;
+  border-style: dashed;
+  margin-top:7px;
+  margin-right:1%;
+  margin-bottom:10px;
+  margin-left:1%;
+  padding-top:20px;
+  padding-right:10%;
+  padding-bottom:20px;
+  padding-left:1%;
+  text-align: center;
+  position: relative;
+  top:1%;
+}
+
+.text1 {
+  text-align: left;
+  color: red;
+}
+
+.text2 {
+  text-align: left;
+  opacity: 0.5;
+}
+
+.text3 {
+  color: purple;
+}
